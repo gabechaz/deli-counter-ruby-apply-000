@@ -6,7 +6,6 @@ katz_deli = []
 
  def line(array)
   line_people = ""
-  line_peeps = []
   counter = 1
   if array.length > 0
     array.each do |cust|
