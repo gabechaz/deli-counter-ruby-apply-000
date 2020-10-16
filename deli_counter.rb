@@ -13,9 +13,6 @@ katz_deli = []
     counter += 1
   end
 
- 
- end
-
 end
   puts "The line is currently:#{line_people}"
 else 
